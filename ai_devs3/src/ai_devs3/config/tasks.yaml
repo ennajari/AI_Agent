@@ -1,7 +1,0 @@
-- description: Recherche des informations sur l’IA en {{ topic }} durant l’année {{ year }}.
-  expected_output: Un résumé clair et structuré
-  agent: Researcher
-
-- description: Rédige un rapport à partir du résumé fourni par le chercheur.
-  expected_output: Rapport bien rédigé sur le sujet
-  agent: Rédacteur
