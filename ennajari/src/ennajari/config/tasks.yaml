@@ -1,0 +1,9 @@
+research_task:
+  description: Conduct research on the topic "{{ topic }} in {{ current_year }}" and gather key points, trends, and updates.
+  expected_output: A comprehensive summary of findings on the topic "{{ topic }} in {{ current_year }}".
+  agent: researcher
+
+reporting_task:
+  description: Analyze the research on "{{ topic }} in {{ current_year }}" and generate a clear, human-readable report.
+  expected_output: A detailed but concise report that highlights the main findings about "{{ topic }} in {{ current_year }}".
+  agent: reporting_analyst
