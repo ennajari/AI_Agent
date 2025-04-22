@@ -1,0 +1,5 @@
+agents:
+  Abdellah:
+    backstory: '1'
+    goal: deep leanrning
+    role: calculer somme de deux nombre
